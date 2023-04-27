@@ -1,0 +1,15 @@
+/* @import url() here */
+
+:root {
+	color-scheme: light dark;
+	color: rgba(255, 255, 255, 0.87);
+	background-color: #1b1c27;
+
+	font-synthesis: none;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+	margin: 0;
+}
